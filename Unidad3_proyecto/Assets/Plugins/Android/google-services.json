@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334617018819",
+    "project_id": "unity-unidad-3",
+    "storage_bucket": "unity-unidad-3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334617018819:android:1e22b9f1dd56dd77893d76",
+        "android_client_info": {
+          "package_name": "com.orozko.unidada3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYOgC51Avg3REy4AUoohgeSvRp2ZUBKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
